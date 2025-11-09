@@ -1,3 +1,7 @@
+# Writeup: 420BasedIt
+## Team: bwnfools
+**Author:** sparekonto
+
 ## Process
 
 You can solve the challenge by using several decryption algorithms using CyberChef.
