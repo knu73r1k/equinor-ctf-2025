@@ -71,6 +71,7 @@ Steps:
  - **[Norges Aller Beste Hacker - Level 1](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201)**
  - **[Norges Aller Beste Hacker - Level 2](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202)**
  - **[Guess it](/writeups/misc/Guess%20it)**
+	 - [telenor](/writeups/misc/Guess%20it/telenor)  
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
  - **[Agents](/writeups/misc/Agents)**
